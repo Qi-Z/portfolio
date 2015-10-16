@@ -1,0 +1,37 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Qi Zhang's portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{% static 'portfolio/css/bootstrap.min.css' %}">
+    <link rel="icon" type="image/png" href="{% static 'portfolio/img/favicon.png' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="{% static 'portfolio/js/bootstrap.min.js' %}"></script>
+</head>
+<body>
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>CS242 Projects</h1>
+    </div>
+    {% for project_name, project in projects.items %}
+        <div class="row">
+            <div class="col-sm-8">
+                <h3>{{ project_name }}</h3>
+                <p>Version: {{ project.version }}</p>
+                <p>Summary: {{ project.summary }}</p>
+                <p><a href="{% url 'detail' project_name %}">Files</a></p>
+            </div>
+        </div>
+    {% empty %}
+        <div class="row">
+
+        </div>
+    {% endfor %}
+
+</div>
+
+</body>
+</html>

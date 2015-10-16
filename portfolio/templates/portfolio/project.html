@@ -1,0 +1,49 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ project }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{% static 'portfolio/css/bootstrap.min.css' %}">
+    <link rel="icon" type="image/png" href="{% static 'portfolio/img/favicon.png' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="{% static 'portfolio/js/bootstrap.min.js' %}"></script>
+</head>
+<body>
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>{{ project }}</h1>
+    </div>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Size</th>
+            <th>Path</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for file_path, file in files.items %}
+            <tr class="{% cycle 'success' 'danger' 'info' %}">
+                <td><a href="{% url 'filedetail' file_path|add:'/file/' %}">{{ file.name }}</a></td>
+                <td>{{ file.file_type }}</td>
+                <td>{{ file.size }}</td>
+                <td>https://subversion.ews.illinois.edu/svn/fa15-cs242/qizhang4/{{ file_path }}</td>
+            </tr>
+        {% empty %}
+            <tr class="danger">
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+                <td>None</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>

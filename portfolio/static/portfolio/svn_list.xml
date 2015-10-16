@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa15-cs242/qizhang4">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2731">
+<author>qizhang4</author>
+<date>2015-09-04T16:42:40.635229Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0</name>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.project</name>
+<size>362</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/.settings</name>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin</name>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation</name>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4548</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/Network.class</name>
+<size>6733</size>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/internals/Node.class</name>
+<size>3459</size>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>898</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9411</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/doc</name>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src</name>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation</name>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/Network.java</name>
+<size>11598</size>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation/internals</name>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/internals/Node.java</name>
+<size>4517</size>
+<commit
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation/tests</name>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/README.md</name>
+<size>13</size>
+<commit
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/background.js</name>
+<size>2505</size>
+<commit
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/content.js</name>
+<size>2258</size>
+<commit
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/icon-128.png</name>
+<size>9924</size>
+<commit
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/icon-19.png</name>
+<size>715</size>
+<commit
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/icon-48.png</name>
+<size>1891</size>
+<commit
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/manifest.json</name>
+<size>590</size>
+<commit
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/naivebayes.py</name>
+<size>4361</size>
+<commit
+   revision="2731">
+<author>qizhang4</author>
+<date>2015-09-04T16:42:40.635229Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/server</name>
+<commit
+   revision="2651">
+<author>qizhang4</author>
+<date>2015-09-04T06:46:35.600064Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/server/cherry.py</name>
+<size>4403</size>
+<commit
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/server/lr.p</name>
+<size>1890</size>
+<commit
+   revision="2651">
+<author>qizhang4</author>
+<date>2015-09-04T06:46:35.600064Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/server/s2v.py</name>
+<size>1533</size>
+<commit
+   revision="2651">
+<author>qizhang4</author>
+<date>2015-09-04T06:46:35.600064Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/server/test.html</name>
+<size>458</size>
+<commit
+   revision="2651">
+<author>qizhang4</author>
+<date>2015-09-04T06:46:35.600064Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="4921">
+<author>qizhang4</author>
+<date>2015-09-18T13:43:10.365733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4967">
+<author>qizhang4</author>
+<date>2015-09-18T16:38:52.939230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>106993</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chessguitesting.pdf</name>
+<size>220267</size>
+<commit
+   revision="4967">
+<author>qizhang4</author>
+<date>2015-09-18T16:38:52.939230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4959">
+<author>qizhang4</author>
+<date>2015-09-18T16:31:45.188801Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Bishop.java</name>
+<size>812</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Board.java</name>
+<size>13816</size>
+<commit
+   revision="4959">
+<author>qizhang4</author>
+<date>2015-09-18T16:31:45.188801Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Controller.java</name>
+<size>1874</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Dragon.java</name>
+<size>570</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Game.java</name>
+<size>2456</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/King.java</name>
+<size>948</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Knight.java</name>
+<size>734</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pawn.java</name>
+<size>2560</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pictures.java</name>
+<size>927</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Piece.java</name>
+<size>2046</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Queen.java</name>
+<size>897</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Rook.java</name>
+<size>865</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Square.java</name>
+<size>1917</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Witch.java</name>
+<size>571</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test</name>
+<commit
+   revision="4959">
+<author>qizhang4</author>
+<date>2015-09-18T16:31:45.188801Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/BishopTest.java</name>
+<size>786</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/BoardTest.java</name>
+<size>5315</size>
+<commit
+   revision="4959">
+<author>qizhang4</author>
+<date>2015-09-18T16:31:45.188801Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/ControllerTest.java</name>
+<size>928</size>
+<commit
+   revision="4959">
+<author>qizhang4</author>
+<date>2015-09-18T16:31:45.188801Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/KingTest.java</name>
+<size>784</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/KnightTest.java</name>
+<size>786</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/PawnTest.java</name>
+<size>947</size>
+<commit
+   revision="4959">
+<author>qizhang4</author>
+<date>2015-09-18T16:31:45.188801Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/PieceTest.java</name>
+<size>785</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/QueenTest.java</name>
+<size>785</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/RookTest.java</name>
+<size>784</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/SquareTest.java</name>
+<size>786</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>106993</size>
+<commit
+   revision="5965">
+<author>qizhang4</author>
+<date>2015-09-25T13:43:57.393221Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chessguitesting.pdf</name>
+<size>220267</size>
+<commit
+   revision="5965">
+<author>qizhang4</author>
+<date>2015-09-25T13:43:57.393221Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5965">
+<author>qizhang4</author>
+<date>2015-09-25T13:43:57.393221Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Bishop.java</name>
+<size>812</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Board.java</name>
+<size>13816</size>
+<commit
+   revision="4959">
+<author>qizhang4</author>
+<date>2015-09-18T16:31:45.188801Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Controller.java</name>
+<size>1874</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Dragon.java</name>
+<size>570</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Game.java</name>
+<size>2456</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/King.java</name>
+<size>948</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Knight.java</name>
+<size>734</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pawn.java</name>
+<size>2560</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Pictures.java</name>
+<size>927</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Piece.java</name>
+<size>2046</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Queen.java</name>
+<size>897</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Rook.java</name>
+<size>865</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Square.java</name>
+<size>1917</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Witch.java</name>
+<size>571</size>
+<commit
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test</name>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/BishopTest.java</name>
+<size>786</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/BoardTest.java</name>
+<size>5315</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/ControllerTest.java</name>
+<size>928</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/KingTest.java</name>
+<size>784</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/KnightTest.java</name>
+<size>786</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/PawnTest.java</name>
+<size>947</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/PieceTest.java</name>
+<size>785</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/QueenTest.java</name>
+<size>785</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/RookTest.java</name>
+<size>784</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/SquareTest.java</name>
+<size>786</size>
+<commit
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6741">
+<author>qizhang4</author>
+<date>2015-10-02T16:48:21.310362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src</name>
+<commit
+   revision="6741">
+<author>qizhang4</author>
+<date>2015-10-02T16:48:21.310362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src/main</name>
+<commit
+   revision="6741">
+<author>qizhang4</author>
+<date>2015-10-02T16:48:21.310362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/main/check_info.rb</name>
+<size>3201</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/main/city.rb</name>
+<size>3195</size>
+<commit
+   revision="6690">
+<author>qizhang4</author>
+<date>2015-10-02T05:33:46.366960Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/main/my_file_util.rb</name>
+<size>1793</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/main/network_validation.rb</name>
+<size>141</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src/main/resources</name>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/main/resources/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/main/route_network.rb</name>
+<size>6827</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/main/text_interface.rb</name>
+<size>4134</size>
+<commit
+   revision="6741">
+<author>qizhang4</author>
+<date>2015-10-02T16:48:21.310362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src/test</name>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/test/checker_test.rb</name>
+<size>3197</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/test/city_test.rb</name>
+<size>4211</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/test/file_util_test.rb</name>
+<size>2094</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/test/route_network_test.rb</name>
+<size>2375</size>
+<commit
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src</name>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/main</name>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/check_info.rb</name>
+<size>3201</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/city.rb</name>
+<size>3818</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/my_file_util.rb</name>
+<size>2461</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/network_validation.rb</name>
+<size>143</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/main/resources</name>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/resources/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/resources/dijkstra_test.json</name>
+<size>1736</size>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/resources/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/resources/route_info_test.json</name>
+<size>1216</size>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/resources/routes.json</name>
+<size>33528</size>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/resources/test.json</name>
+<size>918</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/route_network.rb</name>
+<size>19014</size>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/main/text_interface.rb</name>
+<size>9351</size>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/test</name>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/test/checker_test.rb</name>
+<size>3197</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/test/city_test.rb</name>
+<size>4487</size>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/test/file_util_test.rb</name>
+<size>2445</size>
+<commit
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/test/route_network_test.rb</name>
+<size>9981</size>
+<commit
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea</name>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/PortfolioSite.iml</name>
+<size>921</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/dataSources.xml</name>
+<size>765</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/misc.xml</name>
+<size>861</size>
+<commit
+   revision="7599">
+<author>qizhang4</author>
+<date>2015-10-12T09:18:25.162834Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="7599">
+<author>qizhang4</author>
+<date>2015-10-12T09:18:25.162834Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/workspace.xml</name>
+<size>39643</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/PortfolioSite</name>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/PortfolioSite/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/PortfolioSite/__init__.pyc</name>
+<size>173</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/PortfolioSite/settings.py</name>
+<size>2676</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/PortfolioSite/settings.pyc</name>
+<size>2926</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/PortfolioSite/urls.py</name>
+<size>816</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/PortfolioSite/wsgi.py</name>
+<size>403</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/manage.py</name>
+<size>256</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio</name>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/__init__.pyc</name>
+<size>169</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/admin.py</name>
+<size>63</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/admin.pyc</name>
+<size>226</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/migrations</name>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/migrations/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/models.py</name>
+<size>531</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/models.pyc</name>
+<size>1198</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/static</name>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/static/portfolio</name>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/static/portfolio/css</name>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/css/main.css</name>
+<size>5728</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/css/normalize.css</name>
+<size>7708</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/static/portfolio/img</name>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/img/_gitignore</name>
+<size>0</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/img/favicon.png</name>
+<size>35837</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/static/portfolio/js</name>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/js/main.js</name>
+<size>0</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/js/plugins.js</name>
+<size>760</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/static/portfolio/js/vendor</name>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/js/vendor/jquery-1.11.3.min.js</name>
+<size>95992</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/js/vendor/modernizr-2.8.3.min.js</name>
+<size>15514</size>
+<commit
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/svn_list.xml</name>
+<size>35250</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/static/portfolio/svn_log.xml</name>
+<size>23488</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/templates</name>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/portfolio/templates/portfolio</name>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/templates/portfolio/index.html</name>
+<size>1769</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/tests.py</name>
+<size>60</size>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/urls.py</name>
+<size>116</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/portfolio/views.py</name>
+<size>271</size>
+<commit
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/templates</name>
+<commit
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+</commit>
+</entry>
+</list>
+</lists>

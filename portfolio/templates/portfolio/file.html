@@ -1,0 +1,95 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ file }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <<link rel="stylesheet" href="{% static 'portfolio/css/bootstrap.min.css' %}">
+    <link rel="icon" type="image/png" href="{% static 'portfolio/img/favicon.png' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="{% static 'portfolio/js/bootstrap.min.js' %}"></script>
+    <style>
+        body {
+            position: relative;
+        }
+
+        #section1 {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: #1E88E5;
+        }
+
+        #section2 {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: #673ab7;
+        }
+
+        #section3 {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: #ff9800;
+        }
+
+        #section41 {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: #00bcd4;
+        }
+
+        #section42 {
+            padding-top: 50px;
+            height: 500px;
+            color: #fff;
+            background-color: #009688;
+        }
+    </style>
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">{{ file }}</a>
+        </div>
+        <div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    {% for version_num, version in versions.items %}
+                    <li><a href="{% cycle '#section1' '#section2' '#section3' %}">{{ version_num }}</a></li>
+                    {% empty %}
+                    <li>No past versions.</li>
+                    {% endfor %}
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+<div id="section3" class="container-fluid">
+    <iframe width="80%" height="90%" src="{{ path }}"></iframe>
+</div>
+{% for version_num, version in versions.items %}
+<div id="{% cycle 'section1' 'section2' 'section3'%}" class="container-fluid">
+    <h1>Version {{ version_num }}</h1>
+    <p>author: {{ version.author }}</p>
+    <p>info: {{ version.info }}</p>
+    <p>date: {{ version.date }}</p>
+</div>
+{% empty %}
+<div id="section1" class="container-fluid">
+    <h1>No past versions.</h1>
+</div>
+{% endfor %}
+</body>
+</html>

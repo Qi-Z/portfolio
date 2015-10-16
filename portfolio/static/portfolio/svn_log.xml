@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7643">
+<author>qizhang4</author>
+<date>2015-10-13T20:06:23.142353Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/.idea/dataSources.xml</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment3.0/PortfolioSite/settings.pyc</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment3.0/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="D">/qizhang4/shopping</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment3.0/portfolio/admin.pyc</path>
+<path
+   action="D"
+   kind="dir">/qizhang4/HW0</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio/js/vendor/jquery-1.11.3.min.js</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment3.0/portfolio/__init__.pyc</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio/js/vendor/modernizr-2.8.3.min.js</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment3.0/portfolio/models.py</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment3.0/portfolio/models.pyc</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment3.0/PortfolioSite/__init__.pyc</path>
+</paths>
+<msg>Deleted non-assignment folders</msg>
+</logentry>
+<logentry
+   revision="7602">
+<author>qizhang4</author>
+<date>2015-10-12T17:13:10.274757Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio/css/normalize.css</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment3.0/portfolio/views.py</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/templates/portfolio/index.html</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment3.0/portfolio/static</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/static/portfolio/img/favicon.png</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio/css</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment3.0/portfolio/templates</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment3.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment3.0/PortfolioSite/urls.py</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio/svn_list.xml</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio/img/_gitignore</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/static/portfolio/css/main.css</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/static/portfolio/svn_log.xml</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment3.0/portfolio/models.py</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment3.0/portfolio/templates/portfolio</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/static/portfolio/js/plugins.js</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/urls.py</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment3.0/portfolio/static/portfolio/js/vendor</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/static/portfolio/js/main.js</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio/img</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment3.0/portfolio/static/portfolio/js</path>
+</paths>
+<msg>Finish setup work.</msg>
+</logentry>
+<logentry
+   revision="7599">
+<author>qizhang4</author>
+<date>2015-10-12T09:18:25.162834Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment3.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment3.0/PortfolioSite/urls.py</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment3.0/.idea/vcs.xml</path>
+</paths>
+<msg>Create project.</msg>
+</logentry>
+<logentry
+   revision="7598">
+<author>qizhang4</author>
+<date>2015-10-12T09:07:37.897438Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/models.py</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/PortfolioSite/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment3.0/portfolio/migrations</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/PortfolioSite/settings.py</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/models.pyc</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/PortfolioSite/__init__.pyc</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/admin.py</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/PortfolioSite/settings.pyc</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment3.0/templates</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/admin.pyc</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment3.0</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/views.py</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/.idea/PortfolioSite.iml</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment3.0/PortfolioSite</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/PortfolioSite/wsgi.py</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/__init__.py</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/__init__.pyc</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/portfolio/tests.py</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment3.0/portfolio</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment3.0/PortfolioSite/urls.py</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/manage.py</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment3.0/portfolio/migrations/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment3.0/.idea</path>
+</paths>
+<msg>Create Django project.</msg>
+</logentry>
+<logentry
+   revision="7415">
+<author>qizhang4</author>
+<date>2015-10-09T15:04:50.206600Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment2.1/src/main/resources/routes.json</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment2.1/src/test/route_network_test.rb</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment2.1/src/test/city_test.rb</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment2.1/src/main/text_interface.rb</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment2.1/src/main/route_network.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/resources/route_info_test.json</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/resources/dijkstra_test.json</path>
+</paths>
+<msg>Tests and interface testing done</msg>
+</logentry>
+<logentry
+   revision="7388">
+<author>qizhang4</author>
+<date>2015-10-09T12:34:02.249443Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment2.1/src/main</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/test/checker_test.rb</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.1/src/main/resources/test.json</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.1/src/main/resources/routes.json</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/test/route_network_test.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/test/city_test.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/network_validation.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/text_interface.rb</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.1/src/test/file_util_test.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/route_network.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/city.rb</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment2.1/src/main/resources</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment2.1/src</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/my_file_util.rb</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/resources/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.1/src/main/resources/map_data.json</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.1/src/main/check_info.rb</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment2.1/src/test</path>
+</paths>
+<msg>Test undone</msg>
+</logentry>
+<logentry
+   revision="6741">
+<author>qizhang4</author>
+<date>2015-10-02T16:48:21.310362Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment2.0/src/main/text_interface.rb</path>
+</paths>
+<msg>Fixed city.rb fail settimezone</msg>
+</logentry>
+<logentry
+   revision="6690">
+<author>qizhang4</author>
+<date>2015-10-02T05:33:46.366960Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment2.0/src/main/city.rb</path>
+</paths>
+<msg>Fixed city.rb fail settimezone</msg>
+</logentry>
+<logentry
+   revision="6260">
+<author>qizhang4</author>
+<date>2015-09-30T08:42:56.251144Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment2.0/src/main</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.0/src/test/checker_test.rb</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.0/src/test/route_network_test.rb</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.0/src/test/city_test.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.0/src/main/network_validation.rb</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.0/src/main/text_interface.rb</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment2.0/src/test/file_util_test.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.0/src/main/route_network.rb</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment2.0/src/main/resources</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.0/src/main/city.rb</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment2.0/src</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.0/src/main/my_file_util.rb</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment2.0</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.0/src/main/resources/map_data.json</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment2.0/src/main/check_info.rb</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment2.0/src/test</path>
+</paths>
+<msg>Assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="5966">
+<author>qizhang4</author>
+<date>2015-09-25T13:44:46.696928Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.2/test/ControllerTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.2/test/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.2/test/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.2/test/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.2/test/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.2/test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.2/test/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.2/test/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.2/test/QueenTest.java</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment1.2/test</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.2/test/SquareTest.java</path>
+</paths>
+<msg>1.2 undone</msg>
+</logentry>
+<logentry
+   revision="5965">
+<author>qizhang4</author>
+<date>2015-09-25T13:43:57.393221Z</date>
+<paths>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/qizhang4/Assignment1.1/chessguitesting.pdf"
+   copyfrom-rev="5962">/qizhang4/Assignment1.2/chessguitesting.pdf</path>
+<path
+   kind="file"
+   copyfrom-path="/qizhang4/Assignment1.1/Doxyfile"
+   copyfrom-rev="5962"
+   action="A">/qizhang4/Assignment1.2/Doxyfile</path>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/qizhang4/Assignment1.1/src"
+   copyfrom-rev="5962">/qizhang4/Assignment1.2/src</path>
+</paths>
+<msg>1.2 undone</msg>
+</logentry>
+<logentry
+   revision="5963">
+<author>qizhang4</author>
+<date>2015-09-25T13:39:19.679419Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment1.2</path>
+</paths>
+<msg>1.2 folder</msg>
+</logentry>
+<logentry
+   revision="4967">
+<author>qizhang4</author>
+<date>2015-09-18T16:38:52.939230Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/chessguitesting.pdf</path>
+</paths>
+<msg>GUI Testing plan</msg>
+</logentry>
+<logentry
+   revision="4959">
+<author>qizhang4</author>
+<date>2015-09-18T16:31:45.188801Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment1.1/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment1.1/test/ControllerTest.java</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment1.1/test/PawnTest.java</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment1.1/test/BoardTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4923">
+<author>qizhang4</author>
+<date>2015-09-18T13:46:47.315443Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment1.1/test</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/src/Game.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/src/Dragon.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/src/Rook.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/test/ControllerTest.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/test/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/test/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/test/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/src/Witch.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/test/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment1.1/src</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/src/Controller.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/src/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/src/Knight.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/src/Piece.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/src/Board.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/test/SquareTest.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/src/King.java</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/test/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.1/src/Pictures.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/src/Square.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/test/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/test/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.1/src/Pawn.java</path>
+</paths>
+<msg>Assignment 1.1</msg>
+</logentry>
+<logentry
+   revision="4921">
+<author>qizhang4</author>
+<date>2015-09-18T13:43:10.365733Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/Game.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/RookTest.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/Rook.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/QueenTest.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/Queen.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/Color.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/Bishop.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/BishopTest.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/Knight.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/KnightTest.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/Piece.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/Board.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/BoardTest.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/PieceType.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/KingTest.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/King.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/Player.java</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment1.0/Square.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/Pawn.java</path>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment1.0/PawnTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3616">
+<author>qizhang4</author>
+<date>2015-09-11T16:31:14.904902Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/PawnTest.java</path>
+<path
+   action="M"
+   kind="file">/qizhang4/Assignment1.0/Piece.java</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment1.0/Board.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/qizhang4/Assignment1.0/Rook.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/KnightTest.java</path>
+</paths>
+<msg>added unfinished test</msg>
+</logentry>
+<logentry
+   revision="3599">
+<author>qizhang4</author>
+<date>2015-09-11T15:34:02.383490Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/Knight.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/Piece.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/Board.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/PieceType.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/King.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/Game.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/Rook.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/Player.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment1.0/Queen.java</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/Color.java</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment1.0</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment1.0/Square.java</path>
+</paths>
+<msg>Piece Class implemented. Game logic undone</msg>
+</logentry>
+<logentry
+   revision="2731">
+<author>qizhang4</author>
+<date>2015-09-04T16:42:40.635229Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment0/naivebayes.py</path>
+</paths>
+<msg>add nbayes</msg>
+</logentry>
+<logentry
+   revision="2651">
+<author>qizhang4</author>
+<date>2015-09-04T06:46:35.600064Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment0/server/s2v.py</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment0/server/test.html</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment0/server/lr.p</path>
+</paths>
+<msg>cs410 project server code</msg>
+</logentry>
+<logentry
+   revision="2650">
+<author>qizhang4</author>
+<date>2015-09-04T06:45:17.429361Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/qizhang4/HW0/src/lanSimulation/internals/Node.java"
+   copyfrom-rev="1662"
+   action="R">/qizhang4/Assignment0/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/qizhang4/HW0/bin/lanSimulation/internals/Node.class"
+   copyfrom-rev="1662">/qizhang4/Assignment0/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   copyfrom-path="/qizhang4/HW0/src/lanSimulation/Network.java"
+   copyfrom-rev="1662"
+   action="R"
+   kind="file">/qizhang4/Assignment0/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   copyfrom-path="/qizhang4/HW0"
+   copyfrom-rev="643"
+   action="A">/qizhang4/Assignment0/HW0</path>
+<path
+   kind="file"
+   copyfrom-path="/qizhang4/HW0/bin/lanSimulation/Network.class"
+   copyfrom-rev="1662"
+   action="R">/qizhang4/Assignment0/HW0/bin/lanSimulation/Network.class</path>
+</paths>
+<msg>add HW0</msg>
+</logentry>
+<logentry
+   revision="2649">
+<author>qizhang4</author>
+<date>2015-09-04T06:41:09.528815Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment0/content.js</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/Assignment0/server</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment0/server/cherry.py</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment0/background.js</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment0/README.md</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment0/manifest.json</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment0/icon-19.png</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment0/icon-128.png</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment0/icon-48.png</path>
+</paths>
+<msg>cs410project added</msg>
+</logentry>
+<logentry
+   revision="2648">
+<author>qizhang4</author>
+<date>2015-09-04T06:28:28.836041Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/qizhang4/Assignment0/main_assign2.1.rb</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment0/temp.json</path>
+<path
+   kind="file"
+   action="D">/qizhang4/Assignment0/map_data.json</path>
+</paths>
+<msg>delete csair</msg>
+</logentry>
+<logentry
+   revision="1662">
+<author>qizhang4</author>
+<date>2015-09-01T03:30:01.948183Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/qizhang4/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="M">/qizhang4/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="M">/qizhang4/HW0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="file">/qizhang4/Assignment0/main_assign2.1.rb</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment0/temp.json</path>
+<path
+   kind="file"
+   action="A">/qizhang4/Assignment0/map_data.json</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/Assignment0</path>
+<path
+   action="M"
+   kind="file">/qizhang4/HW0/src/lanSimulation/internals/Node.java</path>
+</paths>
+<msg>add past code for the 1st discussion</msg>
+</logentry>
+<logentry
+   revision="643">
+<author>qizhang4</author>
+<date>2015-08-28T02:27:52.971050Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/doc/README</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/HW0/doc</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/HW0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/HW0/bin</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/COPYING</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/.project</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/HW0</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/.classpath</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/qizhang4/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/qizhang4/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/qizhang4/HW0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/HW0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/HW0/src</path>
+</paths>
+<msg>add hw0</msg>
+</logentry>
+<logentry
+   revision="618">
+<author>qizhang4</author>
+<date>2015-08-28T01:14:43.270457Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/qizhang4/shopping/list3.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="616">
+<author>qizhang4</author>
+<date>2015-08-28T01:13:06.056937Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/qizhang4/shopping</path>
+</paths>
+<msg>ignored the list3.txt from all future commits</msg>
+</logentry>
+<logentry
+   revision="580">
+<author>qizhang4</author>
+<date>2015-08-27T21:52:45.255414Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/qizhang4/grocery"
+   copyfrom-rev="579">/qizhang4/shopping</path>
+<path
+   action="D"
+   kind="dir">/qizhang4/grocery</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="577">
+<author>qizhang4</author>
+<date>2015-08-27T21:49:32.759666Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/qizhang4/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="576">
+<author>qizhang4</author>
+<date>2015-08-27T21:48:30.351674Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/qizhang4/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="575">
+<author>qizhang4</author>
+<date>2015-08-27T21:47:12.848904Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/qizhang4/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize impotance of carrot</msg>
+</logentry>
+<logentry
+   revision="570">
+<author>qizhang4</author>
+<date>2015-08-27T21:35:22.052209Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/qizhang4/grocery/list2.txt</path>
+</paths>
+<msg>Pus emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="569">
+<author>qizhang4</author>
+<date>2015-08-27T21:33:56.749361Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/qizhang4/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="565">
+<author>qizhang4</author>
+<date>2015-08-27T21:32:12.043097Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/qizhang4/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="562">
+<author>qizhang4</author>
+<date>2015-08-27T21:19:35.394020Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/qizhang4/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="561">
+<author>qizhang4</author>
+<date>2015-08-27T21:17:32.399255Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/qizhang4/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="560">
+<author>qizhang4</author>
+<date>2015-08-27T21:10:48.106262Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/qizhang4/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/qizhang4/grocery/list2.txt</path>
+<path
+   action="A"
+   kind="dir">/qizhang4/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="143">
+<author>root</author>
+<date>2015-08-25T21:58:57.177914Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/qizhang4</path>
+</paths>
+<msg>created directory qizhang4</msg>
+</logentry>
+</log>
